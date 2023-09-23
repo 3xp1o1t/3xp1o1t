@@ -28,6 +28,8 @@
 <a href="https://www.youtube.com/@StackedMindsOficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtubeuser" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jes_monti_503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrankuser" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user1890ED" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcodeuser" height="30" width="40" /></a>
+<a href="https://app.hackthebox.com/profile/153014" target="blank"><img align="center" src="31746234.png" alt="hackthebox" height="40" width="40" /></a>
+<a href="https://tryhackme.com/p/3xp1o1t" target="blank"><img align="center" src="thm.png" alt="tryhackme" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
