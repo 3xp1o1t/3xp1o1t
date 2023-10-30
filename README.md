@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesús Montiel</h1>
-<h3 align="center">A web developer from México</h3>
+<h3 align="center">A fontend developer from México</h3>
 
 - 🔭 I’m currently working on [personal projects](https://github.com/3xp1o1t?tab=repositories)
 
@@ -14,8 +14,6 @@
 - 📝 I regularly write articles on [Long time ago blog](https://mentesapiladas.wordpress.com/)
 
 - 💬 Ask me about **Linux, TypeScript and React**
-
-- 📫 How to reach me **jes.monti.503@gmail.com**
 
 - 📄 Know about my experiences [Linkedin profile](https://www.linkedin.com/in/jesus-montiel/)
 
