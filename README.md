@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [personal projects](https://github.com/3xp1o1t?tab=repositories)
 
-- 🌱 I’m currently learning **Next.js/TypeScript**
+- 🌱 I’m currently learning **.NET Core/ASP.Net**
 
 - 👯 I’m looking to collaborate on [any project](https://github.com/)
 
