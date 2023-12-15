@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesús Montiel</h1>
-<h3 align="center">A frontend developer from México</h3>
+<h3 align="center">A developer from México</h3>
 
 - 🔭 I’m currently working on [personal projects](https://github.com/3xp1o1t?tab=repositories)
 
