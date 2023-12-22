@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [Working on it](https://www.youtube.com/watch?v=RjOOYjuOYf0)
 
-- 📝 I regularly write articles on [Long time ago blog](https://mentesapiladas.wordpress.com/)
+- 📝 I regularly upload videos on [my youtube channel](https://www.youtube.com/@StackedMindsOficial)
 
-- 💬 Ask me about **Linux, TypeScript and React**
+- 💬 Ask me about **anything i like to help**
 
 - 📄 Know about my experiences [Linkedin profile](https://www.linkedin.com/in/jesus-montiel/)
 
