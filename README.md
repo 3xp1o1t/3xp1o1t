@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [Linkedin profile](https://www.linkedin.com/in/jesus-montiel/)
 
-- ⚡ Fun fact **i think im a nut at coding**
+- ⚡ Fun fact **i think im funny as f**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
