@@ -13,7 +13,7 @@
 
 - 📝 I regularly upload videos on [my youtube channel](https://www.youtube.com/@StackedMindsOficial)
 
-- 💬 Ask me about **anything i like to help**
+- 💬 Ask me about **React.js, JavaScript, Rust**
 
 - 📄 Know about my experiences [Linkedin profile](https://www.linkedin.com/in/jesus-montiel/)
 
