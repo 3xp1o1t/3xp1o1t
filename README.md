@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [Linkedin profile](https://www.linkedin.com/in/jesus-montiel/)
 
-- ⚡ Fun fact **i edit this to keep up my commit streak**
+- ⚡ Fun fact **im on my way to be a devsecops engeneer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
